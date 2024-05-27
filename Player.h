@@ -11,6 +11,7 @@
 class Player : Character
 {
   public:
+    // 몬스터 사냥
     int KillMonster(Monster *monster);
 };
 

@@ -3,3 +3,8 @@
 //
 
 #include "Slime.h"
+
+void Slime::Slide()
+{
+    // 슬라임 미끄러짐 정의
+}

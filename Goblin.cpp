@@ -3,3 +3,8 @@
 //
 
 #include "Goblin.h"
+
+void Goblin::Jump()
+{
+    // 고블린 점프 정의
+}
